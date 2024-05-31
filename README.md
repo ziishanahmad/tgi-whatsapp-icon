@@ -65,13 +65,6 @@ The TGI WhatsApp Icon plugin adds a floating WhatsApp icon to the bottom right c
 **Q**: What if the WhatsApp icon is not appearing?  
 **A**: Ensure that the plugin is activated and that you have entered a valid WhatsApp number in the settings page.
 
-## Screenshots
-
-1. **Admin settings page**: 
-   ![Admin Settings Page](url-to-screenshot-1)
-2. **Floating WhatsApp icon on the website**:
-   ![WhatsApp Icon on Website](url-to-screenshot-2)
-
 ## Changelog
 
 ### 1.9
@@ -79,5 +72,5 @@ The TGI WhatsApp Icon plugin adds a floating WhatsApp icon to the bottom right c
 
 ## License
 
-This plugin is licensed under the MIT License. You may obtain a copy of the License at
+This plugin is licensed under the MIT License. 
 
